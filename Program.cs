@@ -16,7 +16,7 @@
  }
  */
 
-
+/*
  Console.WriteLine("Введите номер дня недели от 1 до 7: ");
  int number = Convert.ToInt32(Console.ReadLine());
  if (number == 6 || number == 7)
@@ -32,3 +32,4 @@
  {
     Console.WriteLine("Введено некорректное число");
  }
+ */
